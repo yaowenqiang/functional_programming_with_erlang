@@ -1,0 +1,5 @@
+{
+    "label": "compile",
+    "type": "shell",
+    "command": "erlc +debug_info parse.erl"
+}
